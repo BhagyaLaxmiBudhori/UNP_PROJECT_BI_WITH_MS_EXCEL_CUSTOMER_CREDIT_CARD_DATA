@@ -6,4 +6,5 @@ With the cleaned dataset, we created pivot tables to extract meaningful metrics.
 Pivot charts were then generated to help visualize spending patterns and trends.
 The project focused on customer segmentation and behavioral insights.
 It highlights core skills in data cleaning, Excel functions, and visual reporting.
-https://docs.google.com/spreadsheets/d/1A7CDtTRwYKcSqQfb4NZKHoSNolIJcXVf/edit?usp=sharing&ouid=106676733278388625160&rtpof=true&sd=true
+
+https://1drv.ms/f/c/bd53eb4ef9c7e021/ElOL4HThwB9Lib3H3evoCqgBXt_tr8qmgZWR5-LNf_9cAg?e=c2goUT
