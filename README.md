@@ -7,4 +7,4 @@ Pivot charts were then generated to help visualize spending patterns and trends.
 The project focused on customer segmentation and behavioral insights.
 It highlights core skills in data cleaning, Excel functions, and visual reporting.
 
-https://1drv.ms/f/c/bd53eb4ef9c7e021/ElOL4HThwB9Lib3H3evoCqgBXt_tr8qmgZWR5-LNf_9cAg
+https://1drv.ms/x/c/bd53eb4ef9c7e021/Ecv3Pq-KA3lJgfsggMiQ6fEBmeL6GmjJp828k0JR4FUQaw?e=kvt0pf
